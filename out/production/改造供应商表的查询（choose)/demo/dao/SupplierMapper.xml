@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+
+<mapper namespace="demo.dao.SupplierDao">
+    <select id="selectSupplier" resultType="Supplier">
+        select `id`,`supplier`,`address`,`commodity` from supplier
+        <where>
+            <choose>
+                <when test="supplier != null and supplier != ''">
+                    supplier like concat("%",#{supplier},"%")
+                </when>
+                <when test="address != null and address != ''">
+                    address like concat("%",#{address},"%")
+                </when>
+                <when test="commodity != null and commodity != ''">
+                    commodity like concat("%",#{commodity},"%")
+                </when>
+                <otherwise></otherwise>
+            </choose>
+        </where>
+    </select>
+</mapper>

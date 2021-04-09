@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SPLITTER_PROPORTION" value="0.51048386" />
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e43b9754-e0c3-4c00-bd5d-1c2090b3eb9a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="mybatis-mapper" />
+        <option value="Interface" />
+        <option value="applicatonContext" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\apache maven\.m2\.m2" />
+        <option name="userSettingsFile" value="D:\apache maven\.m2\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1qrhCubV8BJbRJsdLth3oAYnDrh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/使用注解实现IoC/src/main/resources" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.30927834" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\h'sh\Desktop\job\使用注解实现IoC\src\main\resources" />
+      <recent name="C:\Users\h'sh\Desktop\job\使用注解实现IOC\src\main\resources" />
+      <recent name="C:\Users\h'sh\Desktop\job\使用p命名空间注入Bean\src\main\resources" />
+      <recent name="C:\Users\h'sh\Desktop\job\使用SpringAop实现日志功能\src\main\resources" />
+      <recent name="C:\Users\h'sh\Desktop\job\使用p命名空间注入直接量\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.StudentTest.talk">
+    <configuration name="StudentTest.talk" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="使用注解实现IOC" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="StudentTest" />
+      <option name="METHOD_NAME" value="talk" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="使用注解实现IoC" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UserTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserTest.print (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="使用注解实现IoC" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UserTest" />
+      <option name="METHOD_NAME" value="print" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserTest.print" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="使用p命名空间注入Bean" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UserTest" />
+      <option name="METHOD_NAME" value="print" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserTest.talk" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="使用注解实现IOC" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UserTest" />
+      <option name="METHOD_NAME" value="talk" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="使用注解实现IoC" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="使用注解实现IoC" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.StudentTest.talk" />
+        <item itemvalue="JUnit.UserTest.talk" />
+        <item itemvalue="JUnit.UserTest (1)" />
+        <item itemvalue="JUnit.UserTest.print (1)" />
+        <item itemvalue="JUnit.UserTest.print" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e43b9754-e0c3-4c00-bd5d-1c2090b3eb9a" name="Default Changelist" comment="" />
+      <created>1617843491496</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617843491496</updated>
+      <workItem from="1617843492632" duration="8400000" />
+      <workItem from="1617859892014" duration="18942000" />
+      <workItem from="1617935640968" duration="4552000" />
+      <workItem from="1617946124254" duration="2300000" />
+      <workItem from="1617950321288" duration="1237000" />
+      <workItem from="1617951660423" duration="2434000" />
+      <workItem from="1617954709555" duration="4608000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="702" y="148" key="#Project_Structure" timestamp="1617951765777">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="702" y="148" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1617951765777" />
+    <state x="319" y="229" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1617879188182">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="319" y="229" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.1536.824@0.0.1536.824" timestamp="1617879188182" />
+    <state x="751" y="172" key="#com.intellij.ide.util.MemberChooser" timestamp="1617958333610">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="751" y="172" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1617958333610" />
+    <state x="42" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1617844858641">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="42" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1617844858641" />
+    <state x="730" y="319" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1617954775007">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="730" y="319" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1617954775007" />
+    <state x="250" y="170" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1617862208992">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="250" y="170" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1536.824@0.0.1536.824" timestamp="1617862208992" />
+    <state x="964" y="311" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1617951564776">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="964" y="311" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1617951564776" />
+    <state x="274" y="130" key="DetectedRootsChooserDialog" timestamp="1617845981125">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="274" y="130" key="DetectedRootsChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1617845981125" />
+    <state x="160" y="122" key="FileChooserDialogImpl" timestamp="1617956133513">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="160" y="122" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1617956133513" />
+    <state width="1261" height="2" key="GridCell.Tab.0.bottom" timestamp="1617959349224">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1261" height="2" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1617959349224" />
+    <state width="1261" height="2" key="GridCell.Tab.0.center" timestamp="1617959349224">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1261" height="2" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1617959349224" />
+    <state width="1261" height="2" key="GridCell.Tab.0.left" timestamp="1617959349224">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1261" height="2" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1617959349224" />
+    <state width="1261" height="2" key="GridCell.Tab.0.right" timestamp="1617959349224">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1261" height="2" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1617959349224" />
+    <state x="434" y="139" key="IDE.errors.dialog" timestamp="1617871489906">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="434" y="139" key="IDE.errors.dialog/0.0.1536.824@0.0.1536.824" timestamp="1617871489906" />
+    <state x="0" y="141" key="Maven.ArtifactSearchDialog" timestamp="1617873148517">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="141" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1617873148517" />
+    <state x="384" y="0" key="SettingsEditor" timestamp="1617957285758">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="384" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1617957285758" />
+    <state x="787" y="424" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1617865277378">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="787" y="424" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1617865277378" />
+    <state x="350" y="36" width="1180" height="788" key="new project wizard" timestamp="1617957320475">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="350" y="36" width="1180" height="788" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1617957320475" />
+    <state x="409" y="214" key="run.anything.popup" timestamp="1617946380247">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="409" y="214" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1617946380247" />
+  </component>
+</project>

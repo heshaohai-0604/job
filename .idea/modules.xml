@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Spring依赖注入/Spring依赖注入.iml" filepath="$PROJECT_DIR$/Spring依赖注入/Spring依赖注入.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/job.iml" filepath="$PROJECT_DIR$/.idea/job.iml" />
+      <module fileurl="file://$PROJECT_DIR$/使用SpringAop实现日志功能/使用SpringAop实现日志功能.iml" filepath="$PROJECT_DIR$/使用SpringAop实现日志功能/使用SpringAop实现日志功能.iml" />
+      <module fileurl="file://$PROJECT_DIR$/使用p命名空间注入Bean/使用p命名空间注入Bean.iml" filepath="$PROJECT_DIR$/使用p命名空间注入Bean/使用p命名空间注入Bean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/使用p命名空间注入直接量/使用p命名空间注入直接量.iml" filepath="$PROJECT_DIR$/使用p命名空间注入直接量/使用p命名空间注入直接量.iml" />
+      <module fileurl="file://$PROJECT_DIR$/使用构造注入/使用构造注入.iml" filepath="$PROJECT_DIR$/使用构造注入/使用构造注入.iml" />
+      <module fileurl="file://$PROJECT_DIR$/使用注解实现IOC/使用注解实现IOC.iml" filepath="$PROJECT_DIR$/使用注解实现IOC/使用注解实现IOC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/分页显示供应商表和订单表/分页显示供应商表和订单表.iml" filepath="$PROJECT_DIR$/分页显示供应商表和订单表/分页显示供应商表和订单表.iml" />
+      <module fileurl="file://$PROJECT_DIR$/实现供应商表的修改/实现供应商表的修改.iml" filepath="$PROJECT_DIR$/实现供应商表的修改/实现供应商表的修改.iml" />
+      <module fileurl="file://$PROJECT_DIR$/实现供应商表的删除/实现供应商表的删除.iml" filepath="$PROJECT_DIR$/实现供应商表的删除/实现供应商表的删除.iml" />
+      <module fileurl="file://$PROJECT_DIR$/实现供应商表的增加/实现供应商表的增加.iml" filepath="$PROJECT_DIR$/实现供应商表的增加/实现供应商表的增加.iml" />
+      <module fileurl="file://$PROJECT_DIR$/实现供应商表的查询/实现供应商表的查询.iml" filepath="$PROJECT_DIR$/实现供应商表的查询/实现供应商表的查询.iml" />
+      <module fileurl="file://$PROJECT_DIR$/实现打印功能/实现打印功能.iml" filepath="$PROJECT_DIR$/实现打印功能/实现打印功能.iml" />
+      <module fileurl="file://$PROJECT_DIR$/实现打印功能1/实现打印功能1.iml" filepath="$PROJECT_DIR$/实现打印功能1/实现打印功能1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/改造供应商表的修改/改造供应商表的修改.iml" filepath="$PROJECT_DIR$/改造供应商表的修改/改造供应商表的修改.iml" />
+      <module fileurl="file://$PROJECT_DIR$/改造供应商表的查询/改造供应商表的查询.iml" filepath="$PROJECT_DIR$/改造供应商表的查询/改造供应商表的查询.iml" />
+      <module fileurl="file://$PROJECT_DIR$/改造供应商表的查询（choose)/改造供应商表的查询（choose).iml" filepath="$PROJECT_DIR$/改造供应商表的查询（choose)/改造供应商表的查询（choose).iml" />
+      <module fileurl="file://$PROJECT_DIR$/改造供应商表达修改功能（if+trim)/改造供应商表达修改功能（if+trim).iml" filepath="$PROJECT_DIR$/改造供应商表达修改功能（if+trim)/改造供应商表达修改功能（if+trim).iml" />
+      <module fileurl="file://$PROJECT_DIR$/改造订单表的查询/改造订单表的查询.iml" filepath="$PROJECT_DIR$/改造订单表的查询/改造订单表的查询.iml" />
+      <module fileurl="file://$PROJECT_DIR$/更改供应商表查询(mappers元素：使用url方式来获取sql映射文件)/更改供应商表达查询(mappers元素：使用url方式来获取sql映射文件).iml" filepath="$PROJECT_DIR$/更改供应商表查询(mappers元素：使用url方式来获取sql映射文件)/更改供应商表达查询(mappers元素：使用url方式来获取sql映射文件).iml" />
+      <module fileurl="file://$PROJECT_DIR$/获取多参数下的订单表/获取多参数下的订单表.iml" filepath="$PROJECT_DIR$/获取多参数下的订单表/获取多参数下的订单表.iml" />
+      <module fileurl="file://$PROJECT_DIR$/获取指定供应商列表下的订单列表/获取指定供应商列表下的订单列表.iml" filepath="$PROJECT_DIR$/获取指定供应商列表下的订单列表/获取指定供应商列表下的订单列表.iml" />
+    </modules>
+  </component>
+</project>

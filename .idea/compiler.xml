@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="使用构造注入" />
+        <module name="使用p命名空间注入直接量" />
+        <module name="使用注解实现IOC" />
+        <module name="使用p命名空间注入Bean" />
+        <module name="使用SpringAop实现日志功能" />
+        <module name="实现打印功能1" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="使用p命名空间注入Bean" target="1.8" />
+      <module name="使用p命名空间注入直接量" target="1.8" />
+      <module name="使用SpringAop实现日志功能" target="1.8" />
+      <module name="使用构造注入" target="1.8" />
+      <module name="使用注解实现IoC" target="1.8" />
+      <module name="使用注解实现IOC" target="1.8" />
+      <module name="实现打印功能1" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+
+<mapper namespace="demo.dao.OrderDao">
+    <resultMap id="orderMap" type="demo.entity.Order">
+        <id column="id" property="id"></id>
+        <result column="supplier" property="supplier"></result>
+        <result column="ordercode" property="ordercode"></result>
+        <result column="ordername" property="ordername"></result>
+    </resultMap>
+
+    <select id="selectOrder" resultMap="orderMap" parameterType="Map">
+        select `id`,`ordercode`,`ordername`,`supplier` from `order`
+        <if test="ordername != null and ordername != ''">
+            where `ordername` like concat("%",#{ordername},"%")
+        </if>
+    </select>
+</mapper>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/实现打印功能1/pom.xml" />
+        <option value="$PROJECT_DIR$/使用构造注入/pom.xml" />
+        <option value="$PROJECT_DIR$/使用p命名空间注入直接量/pom.xml" />
+        <option value="$PROJECT_DIR$/使用SpringAop实现日志功能/pom.xml" />
+        <option value="$PROJECT_DIR$/使用p命名空间注入Bean/pom.xml" />
+        <option value="$PROJECT_DIR$/使用注解实现IoC/pom.xml" />
+        <option value="$PROJECT_DIR$/使用注解实现IOC/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

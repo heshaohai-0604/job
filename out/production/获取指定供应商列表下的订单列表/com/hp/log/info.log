@@ -1,0 +1,4 @@
+2021-04-08 11:43:48 上午 [Thread: main][ Class:OrderTest >> Method: OrderTest.Test2(OrderTest.java:27) ]
+INFO:[Order{id=1, ordercode='111', ordername='学习用品', supplier='天眼'}, Order{id=2, ordercode='222', ordername='支付宝', supplier='阿里巴巴'}]
+2021-04-08 11:44:06 上午 [Thread: main][ Class:OrderTest >> Method: OrderTest.Test2(OrderTest.java:25) ]
+INFO:[Order{id=1, ordercode='111', ordername='学习用品', supplier='天眼'}]

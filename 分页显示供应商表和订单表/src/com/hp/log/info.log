@@ -1,0 +1,4 @@
+2021-04-08 14:01:44 下午 [Thread: main][ Class:OrderTest >> Method: OrderTest.Test2(OrderTest.java:25) ]
+INFO:[Order{id=2, ordercode='杭州', time=Sat Feb 22 13:51:22 CST 2020, supplier='阿里巴巴'}, Order{id=3, ordercode='新疆', time=Thu Apr 08 13:51:44 CST 2021, supplier='张三集团'}]
+2021-04-08 14:02:40 下午 [Thread: main][ Class:OrderTest >> Method: OrderTest.Test2(OrderTest.java:25) ]
+INFO:[Order{id=1, ordercode='浙江', time=Thu Nov 21 13:50:41 CST 2019, supplier='天眼'}, Order{id=2, ordercode='杭州', time=Sat Feb 22 13:51:22 CST 2020, supplier='阿里巴巴'}]
